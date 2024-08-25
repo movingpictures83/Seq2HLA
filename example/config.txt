@@ -1,0 +1,2 @@
+Prefix plugins/Seq2HLA/example/
+Plugin Seq2HLA inputfile parameters.txt outputfile output

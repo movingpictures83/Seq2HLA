@@ -1,0 +1,2 @@
+seq1	S12_R1.fastq
+seq2	S12_R2.fastq
